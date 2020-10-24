@@ -1,18 +1,17 @@
 ### Hi there 👋
 
-<!--
-**orginux/orginux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning [Kubernets](https://github.com/orginux/learning-k8s)
+- 🔭 I’m currently working on [gitlab-tool](https://github.com/orginux/gitlab-tool)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=orginux)](https://github.com/anuraghazra/github-readme-stats)
+
+### Connect with me
+[<img align="left" alt="twitter | Twitter" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733635.svg" />][twitter]
+
+[<img align="left" alt="linkedin | LinkedIn" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111532.svg" />][linkedin]
+
+[<img align="left" alt="telegram" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111708.svg" />][telegram]
+
+[twitter]: https://twitter.com/orginux
+[linkedin]: https://www.linkedin.com/in/orginux
+[telegram]: http://t.me/orginux
