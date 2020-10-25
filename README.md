@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning [Kubernets](https://github.com/orginux/learning-k8s)
 - 🔭 I’m currently working on [gitlab-tool](https://github.com/orginux/gitlab-tool)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=orginux)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Connect with me
 [<img align="left" alt="twitter | Twitter" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733635.svg" />][twitter]
 
