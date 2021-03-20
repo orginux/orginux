@@ -6,7 +6,8 @@
 
 
 ### Connect with me
-<a href="https://www.linkedin.com/in/maria-kotlyarevskaya/">
+
+<a href="https://www.linkedin.com/in/orginux/">
   <img align="left" alt="Denis's LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
