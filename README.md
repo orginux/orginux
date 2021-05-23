@@ -3,7 +3,7 @@
 ### I like
 - Open-source and Linux
 - Containers and VMs
-- Automation scripts
+- VIM and Command line tools
 - DevOps practices
 
 ### Languages and Tools
