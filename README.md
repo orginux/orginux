@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### I like
+- Open-source and Linux
+- Containers and VMs
+- Automation scripts
+- DevOps practices
+
 ### Languages and Tools
 <p align="left">
  <img src="https://github.com/github/explore/raw/main/topics/bash/bash.png" alt="bash" width="40" height="40"/>
@@ -13,7 +19,7 @@
  <img src="https://github.com/github/explore/raw/main/topics/ansible/ansible.png" alt="ansible" width="40" height="40"/>
 </p>
 
-### Connect with me:
+### Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/orginux/">
   <img align="left" alt="Denis's LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
