@@ -1,23 +1,41 @@
 ### Hi there 👋
 
 ### I like
-- Open-source and Linux
-- Containers and VMs
-- VIM and Command line tools
-- DevOps practices
+  - Open-source and Linux
+  - Containers and VMs
+  - VIM and Command line tools
+  - DevOps practices
+
 
 ### Languages and Tools
-<p align="left">
- <img src="https://github.com/github/explore/raw/main/topics/bash/bash.png" alt="bash" width="40" height="40"/>
- <img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
- <img src="https://github.com/github/explore/raw/main/topics/go/go.png" alt="go" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
- <img src="https://github.com/github/explore/raw/main/topics/linux/linux.png" alt="linux" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
- <img src="https://github.com/github/explore/raw/main/topics/ansible/ansible.png" alt="ansible" width="40" height="40"/>
+ <p>
+  <a href="https://github.com/orginux/echopod">
+    <img align="left" alt="k8s project" width="30px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
+  </a>
+  <a href="https://github.com/orginux/dotfiles">
+    <img align="left" alt="linux project" width="30px" src="https://github.com/github/explore/raw/main/topics/linux/linux.png" />
+  </a>
+  <a href="https://github.com/orginux/ShellScripts">
+    <img align="left" alt="bash project" width="30px" src="https://github.com/github/explore/raw/main/topics/bash/bash.png" />
+  </a>
+  <a href="https://github.com/orginux/kubespray-inventory">
+    <img align="left" alt="ansible project" width="30px" src="https://github.com/github/explore/raw/main/topics/ansible/ansible.png" />
+  </a>
+  <a href="https://github.com/orginux/docker-yamllint">
+    <img align="left" alt="docker project" width="30px" src="https://github.com/github/explore/raw/main/topics/docker/docker.png" />
+  </a>
+  <a href="https://github.com/orginux/gitlab-tool">
+    <img align="left" alt="golang project" width="30px" src="https://github.com/github/explore/raw/main/topics/go/go.png" />
+  </a>
+  <a href="https://github.com/orginux/go-app-for-jenkins">
+    <img align="left" alt="jenkins project" width="30px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
+  </a>
+  <a href="https://github.com/orginux/vagrants">
+    <img align="left" alt="vagrant project" width="30px" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" />
+  </a>
 </p>
+...
+
 
 ### Connect with me
 <p align="left">
