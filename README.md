@@ -8,7 +8,7 @@ When I'm not working on exciting projects, I enjoy solving programming katas to 
 - Go programming;
 - ClickHouse optimization and performance;
 
-### Connect with me
+###  How to reach me
 <p align="left">
 <a href="https://www.linkedin.com/in/orginux/">
   <img align="left" alt="Denis's LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
