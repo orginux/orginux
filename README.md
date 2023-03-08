@@ -1,10 +1,12 @@
-### Hi there 👋
+# Hi there! 👋
+I'm a DevOps engineer who is passionate about Kubernetes, Go, and ClickHouse.
+When I'm not working on exciting projects, I enjoy solving programming katas to keep my coding skills sharp.
 
-### I like
-  - Open-source and Linux
-  - Containers and VMs
-  - VIM and Command line tools
-  - DevOps practices
+
+## What I'm learning
+- Advanced Kubernetes techniques;
+- Go programming;
+- ClickHouse optimization and performance;
 
 ### Connect with me
 <p align="left">
