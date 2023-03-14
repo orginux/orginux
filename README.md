@@ -4,9 +4,9 @@ When I'm not working on exciting projects, I enjoy solving programming katas to 
 
 
 ## What I'm learning
-- Advanced Kubernetes techniques;
 - Go programming;
-- ClickHouse optimization and performance;
+- ClickHouse;
+- Kubernetes;
 
 ###  How to reach me
 <p align="left">
