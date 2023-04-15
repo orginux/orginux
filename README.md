@@ -1,12 +1,9 @@
-# Hi there! 👋
-I'm a DevOps engineer who is passionate about Kubernetes, Go, and ClickHouse.
-When I'm not working on exciting projects, I enjoy solving programming katas to keep my coding skills sharp.
-
-
-## What I'm learning
-- Go programming;
-- ClickHouse;
-- Kubernetes;
+# Hi I'm Denis Gorobets! 👋
+- Go
+- ClickHouse
+- Cassandra
+- Kubernetes
+- Cloud
 
 ###  How to reach me
 <p align="left">
