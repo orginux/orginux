@@ -1,4 +1,4 @@
-<div class="container" style="display: flex; flex-direction: row; justify-content: space-between;">
+<div class="container" style="display: inline; flex-direction: row; justify-content: space-between;">
 
   <div align="left" style="margin-right: 50%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orginux&layout=compact&hide=html&theme=tokyonight" alt="Most Used Languages" />
