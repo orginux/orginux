@@ -1,3 +1,3 @@
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orginux&layout=compact&hide=html&theme=tokyonight" alt="Most Used Languages" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=orginux&layout=compact&show_icons=true&count_private=true&theme=tokyonight&show=reviews&hide_rank=false&rank_icon=github" alt="GitHub Stats" /></p>
+![orginux's Stats](https://github-readme-stats.vercel.app/api?username=orginux&theme=nord&show_icons=true&hide_border=true&count_private=true)
+![orginux's Streak](https://github-readme-streak-stats.herokuapp.com/?user=orginux&theme=nord&hide_border=true)
+![orginux's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orginux&theme=nord&show_icons=true&hide_border=true&layout=compact)
